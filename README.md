@@ -1,5 +1,6 @@
 
-![image3 copy](https://user-images.githubusercontent.com/97843190/170662247-f1181e52-e599-43da-852c-c3f06d38fe71.png)
+![image3 copy](https://user-images.githubusercontent.com/97843190/170806994-521f405d-62f9-4bed-a895-3926cbf59eff.png)
+
 
 <h1 align="center">Hi 👋, I'm Ban Rossyn</h1>
 <h3 align="center">Android Developer in India.</h3>
